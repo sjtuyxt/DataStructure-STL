@@ -1,0 +1,1616 @@
+Test LinkedList
+0
+GJF Data From
+YJT Physical
+J_Y Ji
+C_D 0CD
+W_J 1/3Silly
+SJR Boccchan
+YSQ Librarian
+HYC Talent
+LWH Sag
+SQY NoneHead
+MHJ Rich
+ZXH Xihu
+WLL Lili
+LJH Touhou
+G_Y TA1
+CZH OzoraTsubasa
+CJL Literal
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+GJF Data From
+YJT Physical
+J_Y Ji
+C_D 0CD
+W_J 1/3Silly
+SJR Boccchan
+YSQ Librarian
+HYC Talent
+LWH Sag
+SQY NoneHead
+MHJ Rich
+ZXH Xihu
+WLL Lili
+LJH Touhou
+G_Y TA1
+CZH OzoraTsubasa
+CJL Literal
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+GJF Data From
+YJT Physical
+J_Y Ji
+C_D 0CD
+W_J 1/3Silly
+SJR Boccchan
+YSQ Librarian
+HYC Talent
+LWH Sag
+SQY NoneHead
+MHJ Rich
+ZXH Xihu
+WLL Lili
+LJH Touhou
+G_Y TA1
+CZH OzoraTsubasa
+CJL Literal
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+37
+0
+GJF Data From
+YJT Physical
+J_Y Ji
+C_D 0CD
+W_J 1/3Silly
+SJR Boccchan
+YSQ Librarian
+HYC Talent
+LWH Sag
+SQY NoneHead
+MHJ Rich
+ZXH Xihu
+WLL Lili
+LJH Touhou
+G_Y TA1
+Ln
+CJL Literal
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+GJF Data From
+X_C Traffic Accident
+Index out of bound
+
+End print
+C_D 0CD
+W_J 1/3Silly
+SJR Boccchan
+YSQ Librarian
+HYC Talent
+LWH Sag
+SQY NoneHead
+MHJ Rich
+ZXH Xihu
+WLL Lili
+LJH Touhou
+G_Y TA1
+CZH OzoraTsubasa
+CJL Literal
+ZYL BirdBear
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+
+End print
+YSQ Librarian
+HYC Talent
+LWH Sag
+SQY NoneHead
+MHJ Rich
+ZXH Xihu
+WLL Lili
+LJH Touhou
+G_Y TA1
+CZH OzoraTsubasa
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+
+End print
+SQY NoneHead
+MHJ Rich
+ZXH Xihu
+WLL Lili
+LJH Touhou
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+
+End print
+
+End print
+1
+Element not exist
+0
+Test ArrayList
+0
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+CJL Literal
+GJF Data From
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+CJL Literal
+GJF Data From
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+CJL Literal
+GJF Data From
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+37
+0
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+Ln
+GJF Data From
+ZYL BirdBear
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+LWH Sag
+LYW Ln
+Index out of bound
+
+End print
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+
+End print
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+
+End print
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+
+End print
+
+End print
+
+End print
+1
+Element not exist
+0
+Test HashMap
+37
+0
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+74
+0
+0
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+NHB Lolicon
+GJF Data From
+Element not exist
+
+End print
+(5120309059, SQY NoneHead)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+1
+Element not exist
+37
+Test TreeMap
+0
+37
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+74
+0
+0
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+NHB Lolicon
+GJF Data From
+Element not exist
+
+End print
+(5120309059, SQY NoneHead)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+1
+Element not exist
+37
+Test Deque
+0
+X_C Traffic Accident
+W_T Onisan
+ZYY Medvedev
+LYW Ln
+SSW Participants
+SHY Thanatos
+CXY Goddess
+LJJ TopRich
+XYF Server
+BZH Mathematics
+W_C Sick
+W F Extraordinary
+BJW Gay
+ZJR Sister
+W_X Guitar
+HYY Yellow
+ZYD JUDA
+LYP Monster
+NHB Lolicon
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+CJL Literal
+GJF Data From
+ZYL BirdBear
+
+ZYL BirdBear
+GJF Data From
+CJL Literal
+YJT Physical
+CZH OzoraTsubasa
+J_Y Ji
+G_Y TA1
+C_D 0CD
+LJH Touhou
+W_J 1/3Silly
+WLL Lili
+SJR Boccchan
+ZXH Xihu
+YSQ Librarian
+MHJ Rich
+HYC Talent
+SQY NoneHead
+LWH Sag
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+X_C Traffic Accident
+W_T Onisan
+ZYY Medvedev
+LYW Ln
+SSW Participants
+SHY Thanatos
+CXY Goddess
+LJJ TopRich
+XYF Server
+BZH Mathematics
+W_C Sick
+W F Extraordinary
+BJW Gay
+ZJR Sister
+W_X Guitar
+HYY Yellow
+ZYD JUDA
+LYP Monster
+NHB Lolicon
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+CJL Literal
+GJF Data From
+ZYL BirdBear
+
+ZYL BirdBear
+GJF Data From
+CJL Literal
+YJT Physical
+CZH OzoraTsubasa
+J_Y Ji
+G_Y TA1
+C_D 0CD
+LJH Touhou
+W_J 1/3Silly
+WLL Lili
+SJR Boccchan
+ZXH Xihu
+YSQ Librarian
+MHJ Rich
+HYC Talent
+SQY NoneHead
+LWH Sag
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+X_C Traffic Accident
+W_T Onisan
+ZYY Medvedev
+LYW Ln
+SSW Participants
+SHY Thanatos
+CXY Goddess
+LJJ TopRich
+XYF Server
+BZH Mathematics
+W_C Sick
+W F Extraordinary
+BJW Gay
+ZJR Sister
+W_X Guitar
+HYY Yellow
+ZYD JUDA
+LYP Monster
+NHB Lolicon
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+CJL Literal
+GJF Data From
+ZYL BirdBear
+
+ZYL BirdBear
+GJF Data From
+CJL Literal
+YJT Physical
+CZH OzoraTsubasa
+J_Y Ji
+G_Y TA1
+C_D 0CD
+LJH Touhou
+W_J 1/3Silly
+WLL Lili
+SJR Boccchan
+ZXH Xihu
+YSQ Librarian
+MHJ Rich
+HYC Talent
+SQY NoneHead
+LWH Sag
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+37
+0
+X_C Traffic Accident
+W_T Onisan
+ZYY Medvedev
+LYW Ln
+SSW Participants
+SHY Thanatos
+CXY Goddess
+LJJ TopRich
+XYF Server
+BZH Mathematics
+W_C Sick
+W F Extraordinary
+BJW Gay
+ZJR Sister
+W_X Guitar
+HYY Yellow
+ZYD JUDA
+LYP Monster
+NHB Lolicon
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+Ln
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+CJL Literal
+GJF Data From
+ZYL BirdBear
+
+ZYL BirdBear
+GJF Data From
+CJL Literal
+YJT Physical
+CZH OzoraTsubasa
+J_Y Ji
+Ln
+C_D 0CD
+LJH Touhou
+W_J 1/3Silly
+WLL Lili
+SJR Boccchan
+ZXH Xihu
+YSQ Librarian
+MHJ Rich
+HYC Talent
+SQY NoneHead
+LWH Sag
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+LYW Ln
+ZYY Medvedev
+W_T Onisan
+X_C Traffic Accident
+
+End print
+X_C Traffic Accident
+ZYL BirdBear
+Index out of bound
+
+
+End print
+SSW Participants
+SHY Thanatos
+CXY Goddess
+LJJ TopRich
+XYF Server
+BZH Mathematics
+W_C Sick
+W F Extraordinary
+BJW Gay
+ZJR Sister
+W_X Guitar
+HYY Yellow
+ZYD JUDA
+LYP Monster
+NHB Lolicon
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+C_D 0CD
+G_Y TA1
+J_Y Ji
+CZH OzoraTsubasa
+YJT Physical
+
+YJT Physical
+CZH OzoraTsubasa
+J_Y Ji
+G_Y TA1
+C_D 0CD
+LJH Touhou
+W_J 1/3Silly
+WLL Lili
+SJR Boccchan
+ZXH Xihu
+YSQ Librarian
+MHJ Rich
+HYC Talent
+SQY NoneHead
+LWH Sag
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+XYF Server
+LJJ TopRich
+CXY Goddess
+SHY Thanatos
+SSW Participants
+
+End print
+BZH Mathematics
+W_C Sick
+W F Extraordinary
+BJW Gay
+ZJR Sister
+W_X Guitar
+HYY Yellow
+ZYD JUDA
+LYP Monster
+NHB Lolicon
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+ZXH Xihu
+SJR Boccchan
+WLL Lili
+W_J 1/3Silly
+LJH Touhou
+
+LJH Touhou
+W_J 1/3Silly
+WLL Lili
+SJR Boccchan
+ZXH Xihu
+YSQ Librarian
+MHJ Rich
+HYC Talent
+SQY NoneHead
+LWH Sag
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+ZJR Sister
+BJW Gay
+W F Extraordinary
+W_C Sick
+BZH Mathematics
+
+End print
+W_X Guitar
+HYY Yellow
+ZYD JUDA
+LYP Monster
+NHB Lolicon
+LWH Sag
+SQY NoneHead
+HYC Talent
+MHJ Rich
+YSQ Librarian
+
+YSQ Librarian
+MHJ Rich
+HYC Talent
+SQY NoneHead
+LWH Sag
+NHB Lolicon
+LYP Monster
+ZYD JUDA
+HYY Yellow
+W_X Guitar
+
+End print
+
+
+End print
+
+
+End print
+1
+Element not exist
+0
+Element not exist
+0
+Test PriorityQueue
+0
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+End print
+(5120309059, SQY NoneHead)
+(5122409037, NHB Lolicon)
+(5122409038, LWH Sag)
+(5122409039, LYP Monster)
+(5130309008, ZYD JUDA)
+(5130309015, HYC Talent)
+(5130309016, HYY Yellow)
+(5130309017, MHJ Rich)
+(5130309019, W_X Guitar)
+(5130309021, YSQ Librarian)
+(5130309022, ZJR Sister)
+(5130309023, ZXH Xihu)
+(5130309026, BJW Gay)
+(5130309028, SJR Boccchan)
+(5130309030, W F Extraordinary)
+(5130309031, WLL Lili)
+(5130309032, W_C Sick)
+(5130309033, W_J 1/3Silly)
+(5130309045, BZH Mathematics)
+(5130309052, LJH Touhou)
+(5130309056, XYF Server)
+(5130309058, C_D 0CD)
+(5130309059, LJJ TopRich)
+(5130309062, G_Y TA1)
+(5130309066, CXY Goddess)
+(5130309067, J_Y Ji)
+(5130309070, SHY Thanatos)
+(5130309305, CZH OzoraTsubasa)
+(5130379062, SSW Participants)
+(5130379096, YJT Physical)
+(5130719033, LYW Ln)
+(5132029007, CJL Literal)
+(5132409031, ZYY Medvedev)
+(5132409032, GJF Data From)
+(5132409033, W_T Onisan)
+(5132409034, ZYL BirdBear)
+(5134139006, X_C Traffic Accident)
+
+0
+37
+1
